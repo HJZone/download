@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xiaoyaoj.net/store.ipa</string>
+					<string>http://www.xiaoyaoj.net/store_test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -36,6 +36,10 @@
 				<string>software</string>
 				<key>title</key>
 				<string>小幺鲸</string>
+				<key>New item - 2</key>
+				<string></string>
+				<key>New item</key>
+				<string></string>
 			</dict>
 		</dict>
 	</array>
